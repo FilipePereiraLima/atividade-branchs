@@ -1,8 +1,10 @@
 body{
     margin: 0;
     padding: 0;
-    background: linear-gradient(357deg, rgba(10,7,59,1) 0%, rgba(84,98,195,1) 100%);}
+    background: rgb(32, 33, 36);
+}
 #img1{
+    margin-top: 3vh;
 width: 45vw;
 height: 45vh;
 border: 2px solid white;
@@ -50,4 +52,14 @@ input {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+  }
+  
+  nav{
+    background-color: rgb(23, 22, 21);
+    display:flex;
+    justify-content: center;
+  }
+  #logo{
+    width: 15vw;
+    height: 7vh;
   }
