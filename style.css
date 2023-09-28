@@ -50,7 +50,9 @@ input {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-  }
+  } 
+
+
 
   video{
     border: 2px solid white;
