@@ -51,3 +51,13 @@ input {
     display: inline-block;
     font-size: 16px;
   }
+
+  video{
+    border: 2px solid white;
+    width: 50vw;
+    height: 50vh;
+  }
+  .trailer{
+    display: flex;
+    justify-content: center;
+  }
