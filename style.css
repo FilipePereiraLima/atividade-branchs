@@ -31,6 +31,7 @@ border: 2px solid white;
     justify-content: center;
 }
 h1{
+    font-family: minecraft;
     display: flex;
     justify-content: center;
    font-size: 50px;
@@ -50,16 +51,30 @@ input {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-  } 
+}
 
-
-
-  video{
+  #img4, #img5, #img6{
+    width: 30vw;
+    height: 30vh;
     border: 2px solid white;
-    width: 50vw;
-    height: 50vh;
+    margin-left: 1.7rem;
   }
-  .trailer{
-    display: flex;
-    justify-content: center;
-  }
+  @font-face {
+    font-family: minecraft;
+    src: url(fonts/minecraft.ttf);
+ }
+
+ h2{
+    font-family: minecraft;
+ }
+
+
+video{
+  border: 2px solid white;
+  width: 50vw;
+  height: 50vh;
+}
+.trailer{
+  display: flex;
+  justify-content: center;
+}
