@@ -51,7 +51,7 @@ input {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-  }
+}
 
   #img4, #img5, #img6{
     width: 30vw;
@@ -67,3 +67,14 @@ input {
  h2{
     font-family: minecraft;
  }
+
+
+video{
+  border: 2px solid white;
+  width: 50vw;
+  height: 50vh;
+}
+.trailer{
+  display: flex;
+  justify-content: center;
+}
