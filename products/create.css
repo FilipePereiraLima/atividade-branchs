@@ -1,0 +1,3 @@
+/* Formulário de cadastro de produto */
+.form-produto { max-width: 500px; margin: 20px auto; font-family: Arial, sans-serif; }
+.form-produto label { display: block; margin-bottom: 6px; }
