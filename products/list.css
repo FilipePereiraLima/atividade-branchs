@@ -1,0 +1,3 @@
+/* Lista de produtos */
+.lista-produtos { list-style: none; padding: 0; }
+.lista-produtos li { border: 1px solid #ddd; padding: 10px; margin: 6px 0; }
